@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.aeonmq5.nexusmod" name="Aeon MQ 5 Nexusmod" provider-name="MarcosQui / scott967" version="12.5.0">
+<addon id="skin.aeonmq5.nexusmod" name="Aeon MQ 5" provider-name="MarcosQui / scott967" version="12.5.0">
 	<requires>
-		<import addon="xbmc.gui" version="5.16.0" />
+		<import addon="xbmc.gui" version="5.17.0" />
 		<import addon="script.artistslideshow" version="3.3.0" />
 		<import addon="script.cu.lrclyrics" version="6.3.0"  optional="true"/>
 		<import addon="script.favourites" version="8.1.2" />
@@ -26,18 +26,18 @@
 		<res aspect="21:9" default="false" folder="xml" height="1080" width="2560" />
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Aeon MQ 5 Nexusmod, improved, more light and more powerful than ever.</summary>
-		<summary lang="pt_BR">Aeon MQ 5 Nexusmod, melhorada, mais leve e mais poderosa do que nunca.</summary>
-		<summary lang="pt_PT">Aeon MQ 5 Nexusmod, melhorada, mais leve e mais poderosa do que nunca.</summary>
-		<summary lang="el_GR">Aeon MQ 5 Nexusmod, βελτιωμένο, πιο ελαφρύ και πιο ισχυρό από ποτέ.</summary>
-		<summary lang="en_GB">Aeon MQ 5 Nexusmod, improved, more light and more powerful than ever.</summary>
-		<summary lang="es_ES">Aeon MQ 5 Nexusmod, mejor, más ligero y más potente que nunca</summary>
-		<summary lang="es_AR">Aeon MQ 5 Nexusmod, mejor, más ligero y más potente que nunca</summary>
-		<summary lang="es_MX">Aeon MQ 5 Nexusmod, mejor, más ligero y más potente que nunca</summary>
-		<summary lang="fi_FI">Aeon MQ 5 Nexusmod, kehittyneempi, kevyempi ja tehokkaampi kuin koskaan aikaisemmin.</summary>
-		<summary lang="fr_FR">Aeon MQ 5 Nexusmod, amélioré, plus léger et plus puissant que jamais.</summary>	
-		<summary lang="it_IT">Aeon MQ 5 Nexusmod, migliore, più leggero e più potente che mai.</summary>	
-		<summary lang="ja_JP">Aeon MQ 5 Nexusmod。更に優れた、更に軽く、更にパワフル。</summary>	
+		<summary lang="en_GB">Aeon MQ 5, improved, more light and more powerful than ever.</summary>
+		<summary lang="pt_BR">Aeon MQ 5, melhorada, mais leve e mais poderosa do que nunca.</summary>
+		<summary lang="pt_PT">Aeon MQ 5, melhorada, mais leve e mais poderosa do que nunca.</summary>
+		<summary lang="el_GR">Aeon MQ 5, βελτιωμένο, πιο ελαφρύ και πιο ισχυρό από ποτέ.</summary>
+		<summary lang="en_GB">Aeon MQ 5, improved, more light and more powerful than ever.</summary>
+		<summary lang="es_ES">Aeon MQ 5, mejor, más ligero y más potente que nunca</summary>
+		<summary lang="es_AR">Aeon MQ 5, mejor, más ligero y más potente que nunca</summary>
+		<summary lang="es_MX">Aeon MQ 5, mejor, más ligero y más potente que nunca</summary>
+		<summary lang="fi_FI">Aeon MQ 5, kehittyneempi, kevyempi ja tehokkaampi kuin koskaan aikaisemmin.</summary>
+		<summary lang="fr_FR">Aeon MQ 5, amélioré, plus léger et plus puissant que jamais.</summary>	
+		<summary lang="it_IT">Aeon MQ 5, migliore, più leggero e più potente che mai.</summary>	
+		<summary lang="ja_JP">Aeon MQ 5。更に優れた、更に軽く、更にパワフル。</summary>	
 		<summary lang="ko_KR">더욱 가볍게 더욱 강력하게 개선된 Aeon MQ5.</summary>	
 		<summary lang="nl_NL">Aeon MQ 5 Nexusmod, verbeterd, lichter en krachtiger dan ooit.</summary>
 		<summary lang="pl_PL">Aeon  MQ 5, ulepszona, jeszcze lżejsza i potężniejsza niż kiedykolwiek wcześniej.</summary>
@@ -45,11 +45,11 @@
 		<summary lang="ru_RU">Aeon MQ 5 Nexusmod, улучшенный, более легкий и мощный чем когда-либо.</summary>
 		<summary lang="sv_SE">Aeon MQ 5 Nexusmod, förbättrat, lättare och kraftfullare än någonsin.</summary>
 		<summary lang="th_TH">Aeon MQ 5 Nexusmod, พัฒนาขึ้น, เบาและมีประสิทธิภาพยิ่งขึ้นกว่าแต่ก่อน.</summary>
-		<description lang="en_GB">The traditional Aeon MQ reaches its fifth edition.[CR]Reformulated, very simple to use, with a new code that provides a lightweight and powerful skin.[CR]The Aeon MQ 5 Nexusmod incorporates new features such as REPLACE which takes the main menu's level of customization to something never seen before.[CR]Aeon MQ 5 Nexusmod, you've never seen a skin like this.</description>
+		<description lang="en_GB">The traditional Aeon MQ reaches its fifth edition.[CR]Reformulated, very simple to use, with a new code that provides a lightweight and powerful skin.[CR]The Aeon MQ 5 incorporates new features such as REPLACE which takes the main menu's level of customization to something never seen before.[CR]Aeon MQ 5, you've never seen a skin like this.</description>
 		<description lang="pt_br">A tradicional Aeon MQ chega a sua quinta edição.[CR]Reformulada, muito simples de usar, com um código novo que proporciona uma skin leve e poderosa.[CR]A Aeon MQ 5 Nexusmod incorpora novos recursos como o SUBSTITUIR que leva o nível de customização do menu principal a algo nunca antes visto.[CR]Aeon MQ 5 Nexusmod, você nunca viu uma skin assim.</description>
 		<description lang="pt_PT">A tradicional Aeon MQ chega a sua quinta edição.[CR]Reformulada, muito simples de usar, com um código novo que proporciona uma skin leve e poderosa.[CR]A Aeon MQ 5 Nexusmod incorpora novos recursos como o SUBSTITUIR que leva o nível de customização do menu principal a algo nunca antes visto.[CR]Aeon MQ 5 Nexusmod, você nunca viu uma skin assim.</description>
 		<description lang="el_GR">Το κλασικό Aeon MQ έφτασε στην πέμπτη έκδοσή του.[CR]Γραμμένο ξανά από τη βάση, πολύ απλό στη χρήση, με έναν νέο κώδικα που προσφέρει ένα ελαφρύ και ισχυρό κέλυφος.[CR]Το Aeon MQ 5 Nexusmod ενσωματώνει νέες λειτουργίες όπως η ΑΝΤΙΚΑΤΑΣΤΑΣΗ, και ανυψώνει την προσαρμοστικότητα του κεντρικού μενού σε νέα επίπεδα.[CR]Aeon MQ 5 Nexusmod, δεν έχετε ξαναδεί τέτοιο κέλυφος.</description>
-		<description lang="en_GB">The traditional Aeon MQ reaches its fifth edition.[CR]Reformulated, very simple to use, with a new code that provides a lightweight and powerful skin.[CR]The Aeon MQ 5 Nexusmod incorporates new features such as REPLACE which takes the main menu's level of customization to something never seen before.[CR]Aeon MQ 5 Nexusmod, you've never seen a skin like this.</description>
+		<description lang="en_GB">The traditional Aeon MQ reaches its fifth edition.[CR]Reformulated, very simple to use, with a new code that provides a lightweight and powerful skin.[CR]The Aeon MQ 5 incorporates new features such as REPLACE which takes the main menu's level of customization to something never seen before.[CR]Aeon MQ 5, you've never seen a skin like this.</description>
 		<description lang="es_ES">El tradicional Aeon MQ llega a su quinta edición.[CR]reformulada, muy sencillo de usar, con un nuevo código que proporciona un skin más ligero y potente.[CR]El Aeon MQ 5 Nexusmod incorpora nuevas funciones como REPLACE que permite  personalizar el menú principal a un nivel nunca visto antes.[CR]Aeon MQ 5 Nexusmod,  nunca has visto un skin tan bueno.</description>
 		<description lang="es_AR">El tradicional Aeon MQ llega a su quinta edición.[CR]reformulada, muy sencillo de usar, con un nuevo código que proporciona un skin más ligero y potente.[CR]El Aeon MQ 5 Nexusmod incorpora nuevas funciones como REPLACE que permite  personalizar el menú principal a un nivel nunca visto antes.[CR]Aeon MQ 5 Nexusmod,  nunca has visto un skin tan bueno.</description>
 		<description lang="es_MX">El tradicional Aeon MQ llega a su quinta edición.[CR]reformulada, muy sencillo de usar, con un nuevo código que proporciona un skin más ligero y potente.[CR]El Aeon MQ 5 Nexusmod incorpora nuevas funciones como REPLACE que permite  personalizar el menú principal a un nivel nunca visto antes.[CR]Aeon MQ 5 Nexusmod,  nunca has visto un skin tan bueno.</description>
